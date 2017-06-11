@@ -1,0 +1,21 @@
+{
+    "name": "automa-fish-web",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./automa-fish-web.js",
+    "author": {
+        "name": "raimison",
+        "email": "automafish@gmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/automafish/automa-fish-web.git"
+    },
+    "bugs": {
+        "url": "http://github.com/automafish/automa-fish-web/issues"
+    }
+}
